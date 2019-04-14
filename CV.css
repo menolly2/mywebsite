@@ -39,29 +39,14 @@ body
 	font-weight: bolder;
 	font-family: allura, sans-sherif;
 }
-.aside1
-{
-	margin-left: 0;
-	width: 70px;
-}
-.aside2
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 70px;
-}
-.aside3
-{
-	height: 500px;
-	width: 150px;
-	float: right;
-	bottom: 0px;
-	right: 0px;
-}
-.navi
+
+nav
 {
 	background-color: white;
-	height: 500px;
-	width: 200px;
-	position: static;
+	
+}
+.corps, section
+{
+	display: flex;
+
 }
